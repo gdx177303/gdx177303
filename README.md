@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- You can add an animated GIF banner here -->
-<!-- <img src="https://your-gif-url-here.gif" alt="Banner GIF" width="100%"/> -->
+<img src="https://i.pinimg.com/originals/cf/76/57/cf76579f9a68b5a2f98f3a7ec18f4d90.gif" alt="Banner GIF" width="100%"/>
 
 # 👋 Hi, I'm Gdx!
 
