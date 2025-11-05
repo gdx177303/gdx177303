@@ -1,4 +1,4 @@
-# 👋 Cześć! Nazywam się Ołeksandr Żdanow (Oleksandr Zhdanof)
+# 👋 Cześć! Nazywam się Oleksandr Zhdanov (Oleksandr Zhdanov)
 
 Jestem studentem 3. semestru pasjonującym się programowaniem i nowymi technologiami. Witaj w moim portfolio!
 
