@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Cześć! Nazywam się Ołeksandr Żdanow (Oleksandr Zhdanof)
 
-<!--
-**Gdx177303/gdx177303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem studentem 3. semestru pasjonującym się programowaniem i nowymi technologiami. Witaj w moim portfolio!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O mnie
+
+* 👨‍🎓 **Student** (3. semestr), aktywnie zgłębiam tajniki informatyki.
+* 💻 **Stack technologiczny:** [Wpisz tutaj swoje główne technologie, np. **Python, JavaScript, C++**]
+* 🌱 **Zainteresowania:** [Wpisz swoje zainteresowania, np. **Web Development, Uczenie Maszynowe, DevOps**]
+* 🎯 **Cel:** Szukam możliwości rozwoju i wykorzystania swoich umiejętności w realnych projektach.
+
+---
+
+## 🛠️ Moje projekty
+
+### 1. [Nazwa projektu 1]
+* **Opis:** Krótki opis Twojego projektu (1-2 zdania).
+* **Technologie:** `[Technologia 1]`, `[Technologia 2]`
+* 🔗 [Link do repozytorium](https://github.com/gdx177303/inlsgroup2.git)
+
+### 2. [Nazwa projektu 2]
+* **Opis:** Krótki opis Twojego projektu (1-2 zdania).
+* **Technologie:** `[Technologia 1]`, `[Technologia 2]`
+* 🔗 [Link do repozytorium](https://github.com/TWOJ_LOGIN/NAZWA-REPOZYTORIUM)
+
+### 3. [Nazwa projektu 3]
+* **Opis:** Krótki opis Twojego projektu (1-2 zdania).
+* **Technologie:** `[Technologia 1]`, `[Technologia 2]`
+* 🔗 [Link do repozytorium](https://github.com/TWOJ_LOGIN/NAZWA-REPOZYTORIUM)
+
+---
+
+## 📫 Jak się ze mną skontaktować
+
+* **LinkedIn:** [Twój profil LinkedIn](https://linkedin.com/in/TWOJ-PROFIL)
+* **Email:** [Twój adres e-mail](mailto:twoj.email@example.com)
+* **Telegram:** [Twój Telegram (opcjonalnie)](https://t.me/TWOJ-LOGIN)
+
+---
+
+> Dzięki za wizytę! ✨
