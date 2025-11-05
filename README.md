@@ -1,56 +1,115 @@
-# 👋 Cześć! Nazywam się Oleksandr Zhdanov (Oleksandr Zhdanov)
+<div align="center">
+  
+<!-- You can add an animated GIF banner here -->
+<!-- <img src="https://your-gif-url-here.gif" alt="Banner GIF" width="100%"/> -->
 
-Jestem studentem 3. semestru pasjonującym się programowaniem i nowymi technologiami. Witaj w moim portfolio!
+# 👋 Hi, I'm Gdx!
 
----
+### 🚀 Developer | 💡 Creator | 🌟 Tech Enthusiast
 
-## 🚀 O mnie
+<!-- You can add a typing animation GIF here -->
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;Creating+amazing+projects) -->
 
-* 👨‍🎓 **Student** (3. semestr), aktywnie zgłębiam tajniki informatyki.
-* 🎯 **Cel:** Szukam możliwości rozwoju i wykorzystania swoich umiejętności w realnych projektach.
-
-### 💻 Stack technologiczny
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python logo"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript logo"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React logo"/>
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++ logo"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js logo"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker logo"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo"/>
-</p>
+</div>
 
 ---
 
-## 🛠️ Moje projekty
+## 🎯 About Me
 
-### 1. [Nazwa projektu 1]
-* **Opis:** Krótki opis Twojego projektu (1-2 zdania).
-* **Technologie:** `[Technologia 1]`, `[Technologia 2]`
-* 🔗 [Link do repozytorium](https://github.com/TWOJ_LOGIN/NAZWA-REPOZYTORIUM)
+<!-- You can add an animated working GIF here -->
+<!-- <img align="right" alt="Coding GIF" width="400" src="https://your-coding-gif-url.gif"> -->
 
-### 2. [Nazwa projektu 2]
-* **Opis:** Krótki opis Twojego projektu (1-2 zdania).
-* **Technologie:** `[Technologia 1]`, `[Technologia 2]`
-* 🔗 [Link do repozytorium](https://github.com/TWOJ_LOGIN/NAZWA-REPOZYTORIUM)
-
----
-
-## 📫 Jak się ze mną skontaktować
-
-<p align="left">
-  <a href="https://linkedin.com/in/TWOJ-PROFIL" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn logo"/>
-  </a>
-  <a href="mailto:twoj.email@example.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail logo"/>
-  </a>
-  <a href="https://t.me/TWOJ-LOGIN" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40" alt="Telegram logo"/>
-  </a>
-</p>
+- 🔭 I'm currently working on exciting projects
+- 🌱 I'm currently learning new technologies
+- 👯 I'm looking to collaborate on open source projects
+- 💬 Ask me about anything tech-related
+- 📫 How to reach me: your-email@example.com
+- ⚡️ Fun fact: I love coding and creating cool things!
 
 ---
 
-> Dzięki za wizytę! ✨
+## 🛠 Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+<!-- Add your language badges here -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<!-- You can add animated stats GIFs here -->
+<img src="https://github-readme-stats.vercel.app/api?username=Vrihe&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrihe&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vrihe&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=Vrihe&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<!-- Activity Graph with GIF-like animations -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vrihe&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎨 Featured Projects
+
+<!-- You can add project preview GIFs here -->
+<!-- Replace the project names, descriptions, and repository links below with your actual projects -->
+
+<div align="center">
+
+### 🌟 Project 1
+<!-- ![Project Demo](https://your-project-demo-gif.gif) -->
+Description: Amazing project doing amazing things
+
+[View Repository →](https://github.com/Vrihe/project1)
+
+---
+
+### 🌟 Project 2
+<!-- ![Project Demo](https://your-project-demo-gif.gif) -->
+Description: Another cool project
